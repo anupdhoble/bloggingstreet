@@ -1,0 +1,9 @@
+.pomImage{
+    border-radius:10px;
+    width:40vw;
+}
+@media(max-width:992px) {
+    .pomImage{
+        width: 90vw;
+    }
+}
